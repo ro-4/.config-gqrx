@@ -1,0 +1,13 @@
+# Tag name          ;  color
+Untagged            ; #c0c0c0
+FRS                 ; #c0c0c0
+Commercial          ; #c0c0c0
+HAM2m               ; #c0c0c0
+
+# Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
+    99900000; 99.9 - The Wolf          ; WFM (mono)          ;     160000; Commercial
+   145450000; SRG-TUNK                 ; Narrow FM           ;      10000; HAM2m
+   147360000; KBARA                    ; Narrow FM           ;      10000; HAM2m
+   151880000; MURS-2                   ; Narrow FM           ;      10000; Untagged
+   153965000; SC DISP                  ; Narrow FM           ;      10000; Untagged
+   462550000; FRS-15                   ; Narrow FM           ;      10000; FRS
